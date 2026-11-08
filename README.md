@@ -110,9 +110,6 @@ three-stage-mosfet-amplifier/
 - The design exceeded gain, bandwidth, swing, input-resistance, and branch-current targets, while showing tradeoffs in loaded gain reduction and power.
 - Hand calculations provide a useful first approximation, whereas device-level SPICE modeling captures additional loading and non-ideal behavior.
 
-## Documentation
-
-[Read the design and simulation report](docs/design-report.pdf) (technical content only; administrative cover page omitted).
 
 ## Author
 
