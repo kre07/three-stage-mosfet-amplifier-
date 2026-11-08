@@ -113,6 +113,4 @@ The downloadable **local complete package** also has a `models/` directory conta
 
 ## Author
 
-**Kritagya Sharma** — Electrical / Computer Engineering, Toronto Metropolitan University.
-
-*Course project: ELE404 — Electronic Circuits I (Winter 2026).*
+**Kritagya Sharma** 
