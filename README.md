@@ -1,6 +1,6 @@
 # Three-Stage MOSFET Voltage Amplifier | KiCad & SPICE
 
-**An open-loop, transistor-level voltage amplifier designed using two common-source gain stages and a source-follower output buffer.** Developed for ELE404 (Electronic Circuits I) at Toronto Metropolitan University, Winter 2026.
+**An open-loop, transistor-level voltage amplifier designed using two common-source gain stages and a source-follower output buffer.
 
 ![Three-stage MOSFET amplifier schematic](images/circuit-schematic.png)
 
